@@ -2,7 +2,7 @@ Name: Akua Serwaa Nkrumah
 Email: ankrumah@a2sv.org
 
 Screenshots:
-![alt text](image.png)
+![alt text](image-1.png)
 
 Requirements
 
